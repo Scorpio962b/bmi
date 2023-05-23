@@ -20,7 +20,7 @@ function cal() {
   // height = mover.value;
   // weight = slider.value;
 
-bmi= weight / height * 100 .toFixed(1);
+bmi=( weight / height * 100).toFixed(1);
     results.textContent = bmi;
 
  
