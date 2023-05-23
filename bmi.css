@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: rgba(6, 17, 2, 0.772);
+    color: gold;
+    width: 20rem;
+    height: 25rem;
+    text-align: center;
+    margin: 50px;
+    padding: 2px;
+}
+p{
+    color:white;
+}
